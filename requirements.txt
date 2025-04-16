@@ -1,5 +1,5 @@
 altair==5.5.0
-appdirs
+appdirs 
 attrs==25.3.0
 beautifulsoup4 
 blinker==1.9.0
@@ -40,7 +40,7 @@ pyarrow==19.0.1
 pycparser 
 pydeck==0.9.1
 pyparsing==3.2.3
-PySocks k
+PySocks 
 python-dateutil 
 pytz 
 referencing==0.36.2
