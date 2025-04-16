@@ -1,9 +1,9 @@
 import streamlit as st
 import yfinance as yf
 
-st.title('Apple cotirovki')
+st.sidebar.title('Apple cotirovki')
 
-st.write("""
+st.sidebar.write("""
 # Simple Stock Price App
          
 Shown are the stock **closing** and ***volume*** of Apple!
