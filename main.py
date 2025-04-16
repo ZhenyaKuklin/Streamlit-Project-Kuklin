@@ -16,6 +16,7 @@ st.write('Загрузи свой датафрейм и заполни его')
 #Описание
 
 ## Шаг 1. Загрузка CSV файла
+
 uploaded_file = st.sidebar.file_uploader('Загрузки CSV файл', type='csv')
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
